@@ -1,3 +1,5 @@
+Projenin yapımında React Datepicker kütüphanesi kullanılmıştır. tarihler seçildikten sonra Buy butonu ile Booking işleminin tamamlandığı varsayılarak ilgili tarihler stillenidilmiş ve bir sonraki seçim için kapatılmıştır. Reserve  butonu ile seçilen tarihlerin rezervasyonun yapıldığı ancak ödeme beklendiği varsayılmıştır. Stillendirmesi tamamlanamamıştır. Projenin tamamlanması yaklaşık 2 saat sürmüştür.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
